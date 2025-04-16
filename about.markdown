@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+東京都新宿区 神楽坂周辺で毎月1回、土曜日もしくは日曜日に開催を目指している子どもを対象にした参加費無料のプログラミングクラブです。CoderDojo憲章( https://coderdojo.jp/charter )に則り、ボランティアと寄付で運営されています。プログラミングを教わる教室ではなく、子どもたち(CoderDojoではニンジャと呼ぶ)が仲間同士やメンターと呼ばれるサポーターと交流しながら、自主的にプログラミングなどの創作活動を楽しむコミュニティです。
