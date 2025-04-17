@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   東京都新宿区で開催しているCoderDojo神楽坂の活動をお知らせします。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kagurazaka-dojo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: kagurazaka_dojo
 github_username:  kagurazaka-dojo
 
 # Build settings
